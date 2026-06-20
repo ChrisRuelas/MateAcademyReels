@@ -310,3 +310,131 @@ Paso 4 — ENTREGA
   - Máximo 150 palabras
   - Breve justificación técnica de los cambios
 ```
+
+---
+
+## 15. Reglas de Oro para Reels de Matemáticas Puras (Sin Física)
+
+### 15.1 Principio Fundamental
+
+> **Las matemáticas puras no se ven. Se analogizan.**  
+> Si no puedes encontrar una analogía de la vida real para un concepto, no es un tema para reel.
+
+**Regla:** Toda fórmula o definición debe ir precedida de una experiencia que el espectador ya haya vivido.
+
+### 15.2 Topología de Conceptos: Qué Incluir y Qué Excluir
+
+| ✅ Matemática Pura (incluir) | ❌ No es mate pura (excluir) |
+|---|---|
+| Teoría de números (primos, Collatz, conjeturas) | Física (relatividad, mecánica cuántica) |
+| Combinatoria (paradoja del cumpleaños, palomas) | Ingeniería (GPS, puentes) |
+| Probabilidad y estadística (Bayes, Simpson) | Astronomía (órbitas, gravedad) |
+| Topología (homeomorfismos, nudos) | Biología (ADN, evolución) |
+| Teoría de grafos (TSP, Königsberg) | Química (reacciones, moléculas) |
+| Álgebra abstracta (grupos, anillos) | Mecánica (palancas, péndulo) |
+| Geometría pura (Pitágoras, teselados) | Electromagnetismo (ondas, señales) |
+| Series y sucesiones (Fibonacci, *e*) | Termodinámica (entropía, calor) |
+| Lógica y teoría de conjuntos (infinito, Gödel) | Óptica (lentes, prismas) |
+| Teoría de juegos (dilema del prisionero) | Acústica (sonido, frecuencias) |
+
+**Clarificación:** Que un concepto se *aplique* a la física no lo invalida. Lo que invalida es que necesites física para explicarlo. Un teorema de mates puras se sostiene solo con axiomas.
+
+### 15.3 Los 3 Tipos de Gancho que Funcionan para Mate Pura
+
+| Tipo | Mecanismo | Ejemplo de hook |
+|---|---|---|
+| **Paradoja / Contraintuitivo** | El resultado desafía la intuición | "En un grupo de 23 personas, 50% de que dos cumplan el mismo día. Suena falso. Es matemáticas." |
+| **Validación / Alivio** | Quita culpa, el error no es del espectador | "Si no entendiste probabilidad en el colegio, no era tu culpa. Nadie te explicó Bayes con un ejemplo real." |
+| **Patrón oculto** | Revela orden donde parece no haberlo | "Los girasoles siguen Fibonacci sin saberlo. Y no es casualidad: es la forma más eficiente de plantar semillas." |
+
+**Regla:** Siempre combinar paradoja + validación. Es la combinación del Patrón Alfa para mate pura.
+
+### 15.4 Regla de la Analogía Visceral (Obligatoria)
+
+```
+Estructura de cada reel de mate pura:
+
+  [EXPERIENCIA] → "¿Te pasó que..."
+  [ANALOGÍA]    → "Eso pasa porque..."
+  [CONCEPTO]    → "En matemáticas esto se llama..."
+  [CIERRE]      → "Y por eso..."
+```
+
+**Prohibido:** Empezar con la definición. Empezar con "Hoy vamos a hablar de..." Empezar con pizarra vacía.
+
+### 15.5 Producción Visual para Mate Pura
+
+| Elemento | Regla |
+|---|---|
+| **Texto en pantalla** | El número o fórmula debe aparecer **después** de la analogía, no antes |
+| **Animación** | Usar diagramas animados simples (círculos que se dividen, números que cambian) |
+| **Pizarra** | Solo para mostrar el resultado final (últimos 10 segundos), nunca para explicar |
+| **Contraste** | Fondo blanco/liso, marcador negro y un solo color de acento (ej. rojo para el resultado sorprendente) |
+| **Límite de símbolos** | Máximo 1 fórmula por reel. Más de una = pérdida de retención |
+
+### 15.6 Catálogo de Temas Validados (Solo Mate Pura)
+
+| Tema | Analogía visceral | Hook |
+|---|---|---|
+| **Paradoja del cumpleaños** | Tu grupo de amigos | "¿Cuántas personas necesitas juntar para estar seguro de que dos cumplen el mismo día?" |
+| **Teorema de Bayes** | Un test médico | "Tu test dio positivo. No significa que tengas la enfermedad." |
+| **Conjetura de Collatz** | Un juego de niños | "El problema de mates más fácil de entender que nadie ha resuelto. Lleva 90 años abierto." |
+| **Fibonacci en la naturaleza** | Un girasol / una piña | "La naturaleza odia el desorden. Y usa una fórmula matemática para demostrarlo." |
+| **Teoría de grafos (TSP)** | El cartero / Amazon | "Un cartero puede arruinar tu negocio si no entiende esto." |
+| **Problema de los puentes de Königsberg** | Un paseo por una ciudad | "Un paseo imposible creó una rama entera de las matemáticas." |
+| **Números primos y RSA** | Tu WhatsApp | "Cada mensaje que mandas está protegido por un número que tardarías millones de años en factorizar." |
+| **Número e / interés compuesto** | Tu ahorro / una deuda | "La forma más rápida de duplicar tu dinero usa el número más misterioso de las matemáticas." |
+| **Paradoja de Simpson** | Una encuesta política | "Dos grupos separados favorecen a un candidato. Juntos, favorecen al otro. ¿Cómo es posible?" |
+| **Topología (donut = taza)** | Una taza de café | "Para un matemático, desayunar es comerse una taza." |
+| **Dilema del prisionero** | Dos amigos interrogados | "Dos criminales, una decisión. El 90% elige mal." |
+| **Infinitos de Cantor** | Hotel infinito | "Un hotel con infinitas habitaciones llenas puede aceptar infinitos huéspedes más." |
+| **Teorema del palomar** | Tu cajón de calcetines | "Si tienes 3 pares de calcetines y sacas 4, matemáticamente tienes un par asegurado." |
+| **Teselados / mosaicos** | Un piso / una colmena | "Las abejas saben geometría mejor que la mayoría de los humanos." |
+
+### 15.7 Contraejemplos: Lo Que No Funciona en Mate Pura
+
+- ❌ Ecuaciones diferenciales (muy abstracto, sin analogía visceral)
+- ❌ Álgebra lineal con matrices 3×3 (sin gancho emocional)
+- ❌ Demostraciones formales (el público no busca rigor, busca sorpresa)
+- ❌ Cualquier tema que requiera 2+ fórmulas en pantalla
+
+**Regla de oro de mate pura:** Si no puedes explicarlo en 30 segundos con una analogía que tu abuela entienda, no es tema de reel.
+
+### 15.8 El Triángulo de la Divulgación Mate (Fiel + Claro + Accesible)
+
+```
+          ┌─ FIEL al concepto ─┐
+          │                     │
+          │   (rigor mate)      │
+          │                     │
+    ┌─────┴─────┐       ┌──────┴──────┐
+    │           │       │             │
+  CLARO        │       │        ACCESIBLE
+  sin enredos  │       │        para ese público
+    │           │       │             │
+    └───────────┘       └─────────────┘
+```
+
+**Regla de oro:** Las tres puntas deben sostenerse. Si falla una, el reel no sirve.
+
+| Punta | Qué significa | Cómo se logra |
+|---|---|---|
+| **Fiel** | El concepto matemático es correcto. No se miente ni se simplifica al punto de ser falso. | Validar la definición antes de grabar. No decir "es como X" si matemáticamente no es cierto. |
+| **Claro** | Una sola idea por reel. Sin tecnicismos, sin ramificaciones, sin "pero también...". | Si el concepto tiene 3 partes, haz 3 reels. Un reel = una idea. |
+| **Accesible** | Usa el lenguaje, las referencias y la cotidianidad de tu público objetivo. | Si es para adolescentes: memes, TikTok, redes. Si es para adultos: finanzas, trabajo, salud. Si es para niños: juegos, dulces, animales. |
+
+**Ejemplo aplicado — Paradoja del cumpleaños para 3 públicos distintos:**
+
+| Público | Versión del concepto (FIEL) | Lenguaje (ACCESIBLE) | Resultado (CLARO) |
+|---|---|---|---|
+| 🧑‍🎓 **Universitarios** | Probabilidad combinatoria: 23! / (365²³ · ...) | "En tu salón de 30 personas, apuesto un café a que dos cumplen el mismo día." | "23 personas = 50%. 30 personas = 70%. No es suerte, es combinatoria." |
+| 👨‍👩‍👧‍👦 **Padres de familia** | Misma probabilidad, misma fórmula | "En la reunión del cole de tu hijo, mira a tu alrededor. Con 23 padres, ya hay 50% de chance." | "No es casualidad que en tu grupo de WhatsApp de padres siempre haya dos que cumplen el mismo mes." |
+| 🧒 **Niños** | Misma probabilidad, misma fórmula | "Si juntas 23 amigos en tu cumpleaños, es más probable que DOS cumplan el mismo día a que NADIE repita." | "No necesitas 365 amigos para tener un cumpleaños compartido. Solo 23." |
+
+**Reglas concretas:**
+
+1. **Fiel no significa completo.** Puedes contar una verdad parcial sin mentir. No necesitas demostrar Bayes para usar Bayes.
+2. **La simplificación tiene un límite:** si al simplificar cambias el resultado, estás mintiendo. No es divulgación, es desinformación.
+3. **El público define el lenguaje, no el concepto.** El teorema es el mismo. La forma de contarlo cambia. El rigor no.
+4. **Una metáfora incorrecta es peor que ninguna metáfora.** Si dices "los números primos son como átomos" — ok. Si dices "los números primos son como personas solteras" — ya forzaste.
+5. **Prueba tu analogía con alguien de ese público antes de grabar.** Si no la entiende, la analogía falla, no la persona.
