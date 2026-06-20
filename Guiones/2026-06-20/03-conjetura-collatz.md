@@ -2,7 +2,7 @@
 
 **Gancho (0-5s):** Este es el problema de matemáticas más fácil de entender que NADIE ha podido resolver.
 
-**Desarrollo (5-20s):** Coge un número. Si es par, córtalo a la mitad. Si es impar, triplícalo y suma 1. Vuelve a hacerlo.
+**Desarrollo (5-20s):** Agarra un número. Si es par, córtalo a la mitad. Si es impar, triplícalo y suma 1. Vuelve a hacerlo.
 
 **Clímax (20-40s):** Siempre, siempre terminas en 1. Lo hemos comprobado hasta números con 20 ceros. Pero nadie sabe por qué.
 

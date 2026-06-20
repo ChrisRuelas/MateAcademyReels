@@ -27,7 +27,7 @@ Ese archivo contiene el framework completo validado con 700+ clientes, incluyend
 
 ## Idioma
 
-Todos los guiones deben generarse en **español** (a menos que se indique lo contrario).
+Todos los guiones deben generarse en **español neutro latinoamericano**. Sin modismos locales de un país en particular (ni voseo rioplatense, ni tuteo mexicano exclusivo, ni español de España). Usar términos que se entiendan en toda Latinoamérica.
 
 ## Base de Hooks Reales (Inspiración Validada)
 
