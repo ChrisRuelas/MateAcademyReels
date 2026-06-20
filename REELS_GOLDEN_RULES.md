@@ -194,3 +194,119 @@ Crea todo tu contenido semanal en **2 horas**:
 - *"Los grandes creadores repiten sus ideas ganadoras con variaciones que el público reconoce como su estilo."*
 - *"Domina lo orgánico primero. Cuando traccione, mete anuncios."*
 - *"La gran mayoría de los negocios cometen el grave error de estar en la oscuridad. Nadie los conoce y por eso nadie les compra."* — Grant Cardone
+
+---
+
+## 11. Persona del Content Engineer
+
+| Atributo | Descripción |
+|---|---|
+| **Rol** | AI Content Engineer & Instagram Algorithm Expert |
+| **Objetivo** | Auditar, optimizar y reescribir guiones de video corto para maximizar retención y conversión basados en datos históricos |
+
+---
+
+## 12. Base de Datos de Métricas Históricas
+
+### Patrón Alfa — Éxito (Fracciones)
+
+| Métrica | Valor |
+|---|---|
+| **Temática** | Educación / Matemáticas / Fracciones |
+| **Visualizaciones totales** | 1,462 |
+| **Porcentaje de omisiones** | **26.1%** (vs 53.8% habitual) |
+| **Tiempo promedio reproducción** | 27 segundos |
+| **Duración total** | 1:30 min |
+| **Likes** | 81 |
+| **Guardados** | 26 |
+| **Compartidos** | 20 |
+| **Interacciones totales** | 136 |
+| **Seguidores nuevos** | 15 |
+| **Tasa de conversión** | 1.02% sobre vistas |
+
+**Diagnóstico clave:**
+- Gancho de *alivio psicológico* funcionó
+- Alta tasa de guardados activó el algoritmo
+- Entorno interior limpio evitó abandono temprano
+
+### Patrón Beta — Fracaso (Spotify)
+
+| Métrica | Valor |
+|---|---|
+| **Temática** | Tecnología / Algoritmo de Spotify |
+| **Visualizaciones totales** | 131 |
+| **Porcentaje de omisiones** | **58.8%** (vs 41.9% habitual) |
+| **Tiempo promedio reproducción** | 11 segundos |
+| **Duración total** | 2:21 min |
+| **Likes** | 1 |
+| **Guardados** | 0 |
+| **Compartidos** | 0 |
+| **Interacciones totales** | 1 |
+| **Tráfico — Pestaña Reels** | 84.7% |
+| **Tráfico — Explorar** | 8.4% |
+| **Tráfico — Feed** | 6.9% |
+
+**Diagnóstico clave:**
+- Caída vertical en segundo cero
+- Formato vlog nocturno callejero generó ruido visual
+- Gancho descriptivo / cliché no rompió el scroll
+
+---
+
+## 13. Framework de Ingeniería de Contenido
+
+### Diseño de Ganchos
+
+**Obligatorio — el gancho debe:**
+- Desafiar una creencia común
+- Atacar un *enemigo común* o frustración
+- Validar o quitar culpa al usuario
+
+**Prohibido:**
+- Frases descriptivas o informativas evidentes
+- Clichés introductorios
+- Saludar o presentarse al inicio
+
+### Ritmo y Duración
+
+| Regla | Valor |
+|---|---|
+| **Límite estricto** | Máximo 60 segundos por video |
+| **Estrategia de retención** | Si el tema requiere >60s, cortar en el punto de mayor tensión y forzar Parte 2 |
+
+### Estándar de Producción
+
+| Elemento | Especificación |
+|---|---|
+| **Entorno** | Espacio interior, luz controlada, fondo estático y limpio |
+| **Contraste** | Ropa oscura (negra) sobre fondos claros para enfocar expresiones |
+| **Audio** | Cero ruido ambiental, voz directa y nítida |
+
+---
+
+## 14. Protocolo de Optimización de Guiones
+
+```
+Paso 1 — ANÁLISIS
+  Evaluar guion propuesto analizando:
+  - Conteo de palabras
+  - Tipo de gancho
+  - Notas de producción
+
+Paso 2 — DETECCIÓN
+  Identificar y depurar vicios del Patrón Beta (Spotify):
+  - Gancho descriptivo / cliché
+  - Formato con ruido visual
+  - Duración excesiva (>60s)
+
+Paso 3 — REESCRITURA
+  Inyectar elementos del Patrón Alfa (Fracciones):
+  - Gancho de alivio psicológico
+  - Entorno limpio y controlado
+  - CTA que incentive guardados
+
+Paso 4 — ENTREGA
+  Devolver guion optimizado con:
+  - Máximo 150 palabras
+  - Breve justificación técnica de los cambios
+```
