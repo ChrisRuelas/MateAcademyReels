@@ -400,7 +400,51 @@ Estructura de cada reel de mate pura:
 
 **Regla de oro de mate pura:** Si no puedes explicarlo en 30 segundos con una analogía que tu abuela entienda, no es tema de reel.
 
-### 15.8 El Triángulo de la Divulgación Mate (Fiel + Claro + Accesible)
+### 15.8 Regla del Monólogo
+
+> **El formato es monólogo. Una sola persona hablando a cámara. Sin entrevistas, sin diálogos, sin segunda voz.**
+
+**Por qué:** El monólogo genera intimidad y atención sostenida. Una segunda voz rompe el ritmo, divide la atención y aumenta la tasa de abandono (Patrón Beta).
+
+**Reglas:**
+1. Una sola persona. Una sola voz. De principio a fin
+2. Sin preguntas retóricas dramatizadas con cambio de tono fingiendo diálogo ("—¿Y qué hago? —Pues mira...")
+3. Sin cortes a otra persona, sin reacciones grabadas, sin voces en off ajenas
+4. El ritmo lo marca el editor con *jump cuts*, no con un interlocutor
+5. Si necesitas un ejemplo con dos personas, actúalo tú solo cambiando ligeramente el gesto o la posición de cámara
+
+### 15.8 Regla de la Adaptación Obligatoria (Hook Validado)
+
+> **Ningún hook se inventa desde cero. Todo hook se adapta de `hooks_consolidado.md`.**
+
+**Obligatorio antes de escribir cualquier guion de mate pura:**
+
+```
+1. Buscar en hooks_consolidado.md un hook viral del mismo sector o de Desarrollo Personal
+2. Identificar el patrón emocional (negativo, curioso, paradoja, validación)
+3. Adaptar la estructura reemplazando el contexto original por el concepto mate
+4. Conservar el ritmo, la longitud y la emoción del hook original
+5. Documentar: "Hook adaptado de: [ID del hook original] con [N vistas]"
+```
+
+**Prohibido:**
+- Escribir hooks sin consultar la base de datos primero
+- Usar hooks genéricos tipo "Las matemáticas son importantes" (sin patrón validado)
+- Usar hooks descriptivos sin emoción ("Hoy te voy a explicar la conjetura de Collatz")
+
+**Ejemplo de adaptación:**
+
+| Hook original (Desarrollo Personal #8) | Vistas | Adaptación a mate pura |
+|---|---|---|
+| "Trucos de psicología para controlar cualquier situación, parte 4" | 10.8M | "Trucos matemáticos para entender el mundo, parte 1" |
+| "La razón por la que no tienes six pack" (Fitness #86) | 2.4M | "La razón por la que no entendías probabilidad en el colegio" |
+| "4 grandes formas en que conviertes a otras personas en un problema" (DP #1) | 4.2M | "4 formas en que las matemáticas te resuelven la vida sin que lo notes" |
+| "¿Por qué nadie me dijo que esto era tan adictivo?" (Fitness #19) | 2.6M | "¿Por qué nadie me dijo que las matemáticas eran tan adictivas?" |
+| "Lo que la gente piensa que quema grasa" (Fitness #23) | 54.5M | "Lo que la gente piensa que son matemáticas vs lo que realmente son" |
+| "El efecto secundario de ser adicto al gym del que nadie habla" (Fitness #39) | 4.4M | "El efecto secundario de entender matemáticas del que nadie habla" |
+| "Una verdad psicológica que debes saber" (DP #16) | 15.4M | "Una verdad matemática que cambia cómo ves el mundo" |
+
+### 15.9 El Triángulo de la Divulgación Mate (Fiel + Claro + Accesible)
 
 ```
           ┌─ FIEL al concepto ─┐
@@ -438,3 +482,75 @@ Estructura de cada reel de mate pura:
 3. **El público define el lenguaje, no el concepto.** El teorema es el mismo. La forma de contarlo cambia. El rigor no.
 4. **Una metáfora incorrecta es peor que ninguna metáfora.** Si dices "los números primos son como átomos" — ok. Si dices "los números primos son como personas solteras" — ya forzaste.
 5. **Prueba tu analogía con alguien de ese público antes de grabar.** Si no la entiende, la analogía falla, no la persona.
+
+---
+
+## 16. Sistema de Producción de Video — 3 Subagentes
+
+> Framework de ingeniería de contenido para maximizar retención y conversión algorítmica en videos cortos de matemáticas.
+
+### 16.1 Flujo de Ejecución
+
+```
+Paso 1 → [el_axioma]    define la verdad matemática y destruye la falsa creencia
+Paso 2 → [el_cuchillo]   redacta el guion basándose en el entregable de [el_axioma]
+                         aplicando los gatillos de retención
+Paso 3 → [el_inquisidor] audita el guion de [el_cuchillo] y añade las capas
+                         de prevención de abandono visual/auditivo
+```
+
+### 16.2 Subagente: el_axioma
+
+**Rol:** Investigador de Rigor y Fact-Checking Matemático  
+**Objetivo:** Desglosar teoremas y conceptos matemáticos complejos en sus piezas lógicas fundamentales.
+
+**Regla de oro:**
+Prohibición absoluta de incluir narrativa sociológica, psicológica o motivacional. La explicación debe basarse 100% en hechos matemáticos contraintuitivos y lógica pura.
+
+**Entregable requerido:**
+
+| Campo | Descripción |
+|---|---|
+| `premisa_exacta` | Definición matemática rigurosa |
+| `falsa_creencia_a_desmentir` | Mito común a destruir |
+| `pasos_logicos_demostrables` | `["Paso 1", "Paso 2", "Paso 3"]` |
+
+### 16.3 Subagente: el_cuchillo
+
+**Rol:** Ingeniero de Retención y Guionista Algorítmico  
+**Objetivo:** Traducir la investigación técnica en un guion de ritmo acelerado y alta retención que secuestre la atención del usuario.
+
+**Reglas de oro:**
+1. Límite estricto de 150 palabras o 60 segundos
+2. El gancho debe atacar una falacia común de inmediato; prohibidos los saludos o introducciones
+3. Estructurar en oraciones cortas (idealmente menos de 10 palabras por línea)
+4. Es monólogo: una sola voz, una sola persona, sin diálogos ni segunda voz
+5. Incluir CTA doble orientado algorítmicamente a la métrica de *Guardados* (Saves)
+
+**Entregable requerido:**
+
+| Campo | Descripción |
+|---|---|
+| `gancho_0_5s` | Texto del gancho |
+| `desarrollo_5_20s` | Texto del desarrollo |
+| `climax_20_40s` | Texto de mayor tensión |
+| `cierre_cta_40_60s` | Llamado a la acción doble |
+| `conteo_palabras` | Número total |
+
+### 16.4 Subagente: el_inquisidor
+
+**Rol:** Auditor de Control de Calidad (QA) Visual y Técnico  
+**Objetivo:** Filtrar y blindar el guion final contra factores técnicos y visuales que generen caídas de retención prematuras (Patrón Beta).
+
+**Reglas de oro:**
+1. Rechazar el guion si no incluye instrucciones de entorno estático y fondo interior limpio
+2. Verificar la indicación obligatoria de contraste visual (ropa oscura sobre fondo claro)
+3. Asegurar la inclusión de marcadores de edición rápida (*jump cuts*) para eliminar silencios y respiraciones
+
+**Entregable requerido:**
+
+| Campo | Descripción |
+|---|---|
+| `aprobacion_final` | `true` / `false` |
+| `checklist_produccion` | `["Entorno controlado validado", "Contraste de vestuario validado", "Marcas de edición validadas"]` |
+| `notas_direccion_camara` | Instrucciones de actuación y encuadre |
